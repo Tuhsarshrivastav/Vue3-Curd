@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Admin from '../pages/admin/Admin.vue'
-import Products from '../pages/admin/ProductsView.vue'
+import Products from '../pages/admin/Products.vue'
 import ProductCreate from '../pages/admin/ProductCreate.vue'
-import ProductEdit from '../pages/admin/ProdductEdit.vue'
+import ProductEdit from '../pages/admin/ProductEdit.vue'
 import Main from '../pages/Main.vue'
 
 const routes = [

@@ -1,10 +1,6 @@
 <template>
-  <router-view/>
+  <router-view />
 </template>
-
-<script>
-export default {};
-</script>
 
 <style>
 * {
@@ -71,6 +67,7 @@ table {
 table thead th {
   vertical-align: bottom;
 }
+
 td,
 th {
   padding: 0.3rem;

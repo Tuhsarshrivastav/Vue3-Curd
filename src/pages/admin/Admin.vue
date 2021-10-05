@@ -11,12 +11,14 @@
 </template>
 
 <script>
-import Nav from "../../components/Nav.vue";
-import Sidebar from "../../components/Sidebar.vue";
+import Nav from '@/components/Nav'
+import SideBar from '@/components/SideBar'
 export default {
-  name: "Admin",
-  components: { Nav, Sidebar },
-};
+  name: 'Admin',
+  components: {Nav, SideBar}
+}
 </script>
 
-<style scoped></style>
+<style>
+
+</style>
